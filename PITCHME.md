@@ -2,12 +2,14 @@
 
 ---
 
-## Add Some Slide Candy
+## co realizujemy
 
-![](assets/img/presentation.png)
-@snap[north-east span-65]
-@quote[test.]
-@snapend
+@ol
+
+- service-update za pomocą aws ecs update-service --force-new-deployment --profile tt --cluster EcsDemo --service ecs_demo --task-definition ecs_demo:8
+
+@olend
+
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]

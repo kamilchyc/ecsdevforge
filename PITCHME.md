@@ -6,6 +6,7 @@
 
 @ol
 
+- porównanie docker-compose z ecs
 - service-update za pomocą aws ecs update-service --force-new-deployment --profile tt --cluster EcsDemo --service ecs_demo --task-definition ecs_demo:8
 
 @olend

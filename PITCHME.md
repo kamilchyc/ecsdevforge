@@ -12,7 +12,7 @@
 @olend
 
 
----?color=linear-gradient(90deg, white 75%, black 25%)
+---?color=linear-gradient(to right, #b24592, #f15f79)
 @title[Customize Slide Layout]
 
 @snap[west span-50]

@@ -1,6 +1,6 @@
 # Let's Get Started
 
----
+---?color=linear-gradient(to right, #b24592, #f15f79)
 
 ## co realizujemy
 
